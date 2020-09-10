@@ -17,6 +17,9 @@
     padding: 15px 0px 0px 0px;
     text-align: center;
 }
+body {
+	background-color: #e6f3ff;
+}
 ul {
     list-style: none;
     padding: 0px;
